@@ -1,0 +1,22 @@
+STUDENT MARKS PREDICTION - LINEAR REGRESSION RESULTS
+=======================================================
+
+Dataset size: 300 students, 5 columns
+Train samples: 240 | Test samples: 60
+
+Model Coefficients:
+  Study_Hours: 2.9026
+  Attendance: 0.2080
+  Assignment_Score: 0.2064
+  Previous_Test_Score: 0.1910
+  Intercept: 7.9471
+
+Performance Metrics:
+  MAE  : 3.211
+  MSE  : 16.401
+  RMSE : 4.050
+  R2   : 0.696
+
+Sample Prediction:
+  Input -> Study Hours: 7, Attendance: 90%, Assignment Score: 85, Previous Test Score: 78
+  Predicted Final Marks: 79.43
