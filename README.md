@@ -1,6 +1,7 @@
 # 🎓 Student Marks Prediction Using Linear Regression
 
 ## 📌 Project Overview
+Linear Regression is a supervised machine learning algorithm used to predict a continuous numerical value.
 
 This project predicts a student's **Final Exam Marks** using the **Linear Regression** machine learning algorithm.
 
